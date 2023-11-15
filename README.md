@@ -25,14 +25,6 @@ Step 7: Save and run the application.
 
 
 ## Program:
- ```
-/*
-Program to create an Option Menu
-Developed by: Shaik Shoaib Nawaz 
-RegisterNumber: 212222240094 
-*/
-```
-
 ### MainActivity.java:
 ```
 package com.example.exp11;
